@@ -1,28 +1,27 @@
 [Eagle]
-Version="08 00 02"
+Version="08 01 00"
 Platform="Windows"
 Globals="Globals"
 Desktop="Desktop"
 
 [Globals]
 AutoSaveProject=1
-UsedLibrary="D:/tools/EAGLE 8.0.2/lbr/con-conrad.lbr"
-UsedLibrary="D:/tools/EAGLE 8.0.2/lbr/diode.lbr"
-UsedLibrary="D:/tools/EAGLE 8.0.2/lbr/led.lbr"
-UsedLibrary="D:/tools/EAGLE 8.0.2/lbr/pinhead.lbr"
-UsedLibrary="D:/tools/EAGLE 8.0.2/lbr/resistor.lbr"
-UsedLibrary="D:/tools/EAGLE 8.0.2/lbr/supply1.lbr"
-UsedLibrary="D:/tools/EAGLE 8.0.2/lbr/switch-omron.lbr"
-UsedLibrary="D:/tools/EAGLE 8.0.2/lbr/switch.lbr"
-UsedLibrary="D:/tools/EAGLE 8.0.2/lbr/transistor.lbr"
-UsedLibrary="D:/dev/eagle/libs/esp8266modules.lbr"
+UsedLibrary="D:/Tools/EAGLE 8.0.2/lbr/con-conrad.lbr"
+UsedLibrary="D:/Tools/EAGLE 8.0.2/lbr/diode.lbr"
+UsedLibrary="D:/Tools/EAGLE 8.0.2/lbr/led.lbr"
+UsedLibrary="D:/Tools/EAGLE 8.0.2/lbr/pinhead.lbr"
+UsedLibrary="D:/Tools/EAGLE 8.0.2/lbr/resistor.lbr"
+UsedLibrary="D:/Tools/EAGLE 8.0.2/lbr/supply1.lbr"
+UsedLibrary="D:/Tools/EAGLE 8.0.2/lbr/switch-omron.lbr"
+UsedLibrary="D:/Tools/EAGLE 8.0.2/lbr/switch.lbr"
+UsedLibrary="D:/Tools/EAGLE 8.0.2/lbr/transistor.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="-8 -31 1191 568"
+Loc="0 0 1199 599"
 State=2
 Number=0
 
 [Desktop]
-Screen="1366 768"
+Screen="3840 1080"
 Window="Win_1"
